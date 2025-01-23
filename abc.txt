@@ -1,0 +1,5 @@
+Help in Notepad
+Here are answers to a few common questions about Notepad:
+How do I change header and footer commands in Notepad?
+How do I use Notepad to create a log? 
+How do I use XML Notepad to create an XML document?
